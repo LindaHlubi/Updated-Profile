@@ -4,7 +4,7 @@ README
 The goal of this project is to update my portfolio page and the materials such as my Git profile and other professional links such as my resume and linked profile to build towards being employer competitive.
 
 Updated Profile 
-<img src="./My Pics/Screen Shot 2021-01-11 at 11.38.16 am.png">
+<img src="./My Pics/Screen Shot 2021-01-18 at 9.32.04 pm.png">
 Link to deployment - https://lindahlubi.github.io/Updated-Profile/ 
 Link to repository - https://github.com/LindaHlubi/Updated-Profile
 
