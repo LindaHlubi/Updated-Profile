@@ -61,13 +61,13 @@
       <br><br>
       <!--email form-->
       <div class="container">
-        <form action="action_page.php">
+        <form action="email.php">
           <div class="row">
             <div class="col-25">
               <label for="fname">First Name</label>
             </div>
             <div class="col-75">
-              <input type="text" id="fname" name="firstname" placeholder="Your name..">
+              <input type="text" id="Name" name="firstname" placeholder="Your name..">
             </div>
           </div>
           <div class="row">
@@ -75,27 +75,23 @@
               <label for="lname">Last Name</label>
             </div>
             <div class="col-75">
-              <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+              <input type="text" id="Name" name="lastname" placeholder="Your last name..">
             </div>
           </div>
           <div class="row">
             <div class="col-25">
-              <label for="country">Country</label>
+              <label for="Email">Email</label>
             </div>
-            <div class="col-75">
-              <select id="country" name="country">
-                <option value="australia">Australia</option>
-                <option value="canada">Canada</option>
-                <option value="usa">USA</option>
-              </select>
-            </div>
+              <div class="col-75">
+                <input type="text" id="Email" name="Email" placeholder="Your email..">
+              </div>
           </div>
           <div class="row">
             <div class="col-25">
-              <label for="subject">Subject</label>
+              <label for="Message">Subject</label>
             </div>
             <div class="col-75">
-              <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+              <textarea id="Message" name="Message" placeholder="Message here.." style="height:200px"></textarea>
             </div>
           </div>
           <div class="row">
@@ -103,6 +99,7 @@
           </div>
         </form>
       </div>
+   
       <!--Email form ends here-->
       <br><br>
     
