@@ -5,6 +5,7 @@ The goal of this project is to update my portfolio page and the materials such a
 
 Updated Profile 
 <img src="./My Pics/Screen Shot 2021-01-18 at 9.32.04 pm.png">
+<br><br>
 Link to deployment - https://lindahlubi.github.io/Updated-Profile/ 
 Link to repository - https://github.com/LindaHlubi/Updated-Profile
 
